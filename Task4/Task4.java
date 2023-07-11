@@ -1,6 +1,6 @@
 package Task4;
 
-// 4) К калькулятору из предыдущего ДЗ добавить логирование.
+// 4 задача) К калькулятору из предыдущего ДЗ добавить логирование.
 
 import java.util.Scanner;
 import java.util.logging.Level;

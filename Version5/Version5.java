@@ -1,5 +1,7 @@
 package Version5;
 
+// Версия 5-й задачи
+
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
